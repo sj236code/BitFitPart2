@@ -1,4 +1,4 @@
-# Android Project 5 - *BitFit*
+# Android Project 6 - *Name of App Here*
 
 Submitted by: **Saanya Jauhri**
 
@@ -10,18 +10,14 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `Nutrition/ Calorie Tracking- Users can log food items along with their calorie counts, view previous entries, and track food consumption over time. `
-- [X] **There is a "create entry" UI that prompts users to make their daily entry**
-- [X] **New entries are saved in a database and then updated in the RecyclerView**
-- [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [ ] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
