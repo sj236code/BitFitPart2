@@ -13,4 +13,7 @@ interface FoodDao {
 
     @Query("SELECT * FROM food_table ORDER BY id DESC")
     fun getAllFoods(): Flow<List<FoodEntity>>
+
+    @Query("DELETE FROM food_table")
+    suspend fun deleteAllFoods()
 }
