@@ -1,4 +1,4 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - *BitFit- Part 2*
 
 Submitted by: **Saanya Jauhri**
 
